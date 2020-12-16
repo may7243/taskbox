@@ -10,6 +10,7 @@
         :value="task.title"
         readonly
         placeholder="Input title"
+        style="background: azure;"
       />
     </div>
     <div class="actions">
